@@ -6,7 +6,7 @@
 
 ## Todos
 
-- [*] Make the client and server, tabulate voting and have it recorded on the server side.
+- [x] Make the client and server, tabulate voting and have it recorded on the server side.
 - [ ] Fix the issue with the tie or end of election "freeze." First figure out what the issue is, then fix it.
 - [ ] Get rid of the hashes.
 - [ ] Create a homescreen so you can be either a voter or a watcher.
